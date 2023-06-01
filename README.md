@@ -2,7 +2,7 @@
 - 👀 I’m interested in C++/C# programming and game dev.
 - 🌱 I’m currently learning C++
 - 💞️ At the moment I'm not looking for collaboration ;-)
-- 📫 You can find me in discord: Capitan_Alex#4152
+- 📫 You can find me
 
 <!---
 Capta1nAlex/Capta1nAlex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
