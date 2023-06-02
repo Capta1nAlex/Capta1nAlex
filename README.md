@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Capta1nAlex
-- 👀 I’m interested in C++/C# programming and game dev.
+- 👋 Hi, I’m Oleksii Morozov
+- 👀 I’m interested in C++ programming and gamedev.
 - 🌱 I’m currently learning C++
-- 💞️ At the moment I'm not looking for collaboration ;-)
 - 📫 You can find me on LinkedIn: https://www.linkedin.com/in/oleksii-m-897b8a278
 
 <!---
