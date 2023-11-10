@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oleksii Morozov
-- 👀 I’m interested in C++ programming and gamedev.
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in C++/C# programming and gamedev.
+- 🌱 I’m currently studying Python
 - 📫 You can find me on LinkedIn: https://www.linkedin.com/in/oleksii-morozov-897b8a278/
 
 <!---
